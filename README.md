@@ -21,3 +21,7 @@ HistGradientBoosting Accuracy: 78%
 
 ### *Deployment (UI)*
 
+<img width="500" height="500" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/25fb79be-7822-48f6-928d-6853e1795c63" />
+
+
+<img width="500" height="500" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/86355906-c9cf-4d6d-9ba3-dfc6837d1b33" />
